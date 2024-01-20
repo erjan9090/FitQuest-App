@@ -1037,7 +1037,7 @@
     
 -   Мониторинг: Использование инструментов мониторинга и логирования
   ## 8. Схема базовой архитектуры
-  [![N|Solid](https://github.com/erjan9090/FitQuest-App/blob/main/AWS_sheme.png)]   
+  ![N|Solid](https://github.com/erjan9090/FitQuest-App/blob/main/AWS_sheme.png)
 
 # 14  Основные представления
     
