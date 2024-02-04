@@ -1057,7 +1057,7 @@
 -   Внешние интеграции, например, с фитнес-трекерами, платежными системами.
 
 ### Диаграмма случаев использования:
-      ![N|Solid](https://github.com/erjan9090/FitQuest-App/blob/main/use_case.png)
+![N|Solid](https://github.com/erjan9090/FitQuest-App/blob/main/use_case.png)
 
 ## b. Информационное представление
 
@@ -1072,7 +1072,9 @@
 -   Политики управления данными, включая резервное копирование, восстановление и миграцию данных.
     
 -   Потоки данных между компонентами системы.
-    
+
+### ERD:
+![N|Solid](https://github.com/erjan9090/FitQuest-App/blob/main/ERD.png)
 
 ## c. Многозадачность (Concurrency)
 
