@@ -1038,7 +1038,7 @@
 -   Мониторинг: Использование инструментов мониторинга и логирования
   
 ## 13.8 Схема базовой архитектуры
-![N|Solid](https://github.com/erjan9090/FitQuest-App/blob/main/basearch.png)
+![N|Solid](https://github.com/erjan9090/FitQuest-App/blob/main/new_basearch.jpg)
 
 ### 13.8.1 Клиентские устройства:
 
